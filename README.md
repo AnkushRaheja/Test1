@@ -121,3 +121,5 @@ The repository includes all the assets and code you need to get started with Fin
 ## <a name="more">🚀 More</a>
 
 For more information and additional resources, check out our YouTube channel and join our Discord community for support and discussions.
+
+-
